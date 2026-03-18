@@ -101,6 +101,12 @@ const SkillSection = () => {
                 logo="/images/skills/redux.svg"
                 name="Redux" />
               <SkillBox
+  backgroundColor="bg-gray-800"
+  textColor="text-white"
+  logo="/images/skills/flask.svg"
+  name="Flask" 
+/>
+              <SkillBox
                 backgroundColor="bg-black"
                 textColor="text-white"
                 logo="/images/skills/ace.webp"

@@ -48,7 +48,7 @@ const HeroSection = () => {
             For every problem in life, let&apos;s develop software to tackle it - that&apos;s my motto.
           </p>
           <div className="flex justify-start items-center">
-            <Link href="https://drive.google.com/file/d/1ABCUAFQi0iRBktX7_BSmvLo5EyM5ZsmB/view?usp=drivesdk" target="_blank" className="px-1 inline-block py-1 w-full sm:w-fit mt-3">
+            <Link href="https://drive.google.com/file/d/1UwJqNjKcdDJlplKDeQav8wJ4oTUHR5TX/view?usp=sharing" target="_blank" className="px-1 inline-block py-1 w-full sm:w-fit mt-3">
               <Button
                 borderRadius="1.75rem"
                 className="bg-white dark:bg-gray-900 text-black dark:text-white border-neutral-200 dark:border-gray-800"

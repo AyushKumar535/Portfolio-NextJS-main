@@ -24,7 +24,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Kalinga Institute Of Industrial Technology (KIIT)</li>
         <li>D.A.V Public School</li>
-        <li>ST.Xavier's School</li>
+        <li>ST.Xaviers School</li>
       </ul>
     ),
   },
